@@ -16,14 +16,15 @@
 
 ### Connect with me:
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/tuba-sarikaya-a37355295/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/tuba-sarikaya-a37355295/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
 </a>
+</p>
 
 ---
 
-### Languages and Tools:
+### 🛠 Technologies and Tools:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
