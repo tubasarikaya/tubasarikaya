@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tuba-sarikaya-a37355295/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" />
 </a>
 </p>
 
