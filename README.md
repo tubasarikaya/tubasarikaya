@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Tuba+👋;Computer+Engineering+Student;AI+%26+ML+Enthusiast&font=Fira+Code&center=true&width=440&height=45&color=9370DB&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Tuba+%F0%9F%91%8B;Computer+Engineering+Student;AI+%26+ML+Enthusiast)
+
 </div>
 
 <br/>
