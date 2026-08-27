@@ -1,12 +1,11 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there%2C+I'm+Tuba+%F0%9F%91%8B;Computer+Engineering+Student;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&repeat=true&width=600&lines=Hi+there%2C+I'm+Tuba+%F0%9F%91%8B;Computer+Engineering;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
-
-📚 I'm a senior Computer Engineering student at Ondokuz Mayıs University  
+ 
 💻 I'm currently working on end-to-end AI & Machine Learning projects  
 ⚙️ I focus on building practical and impactful solutions - from data collection to deployment  
 🤝 I'm looking to collaborate on interesting AI projects  
