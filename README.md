@@ -5,6 +5,10 @@
   />
 </p>
 
+<p align="center">Machine Learning · Generative AI · MLOps</p>
+
+<hr />
+
 <div align="left">
   <p>I build AI applications, from data preparation and model development to deployment.</p>
 
